@@ -1,6 +1,8 @@
 # mkdocs.yml
-site_name: "awesome-project"
+site_name: "Hello-vibe"
 site_url: https://awesome-project.github.io/
+repo_url: https://github.com/jspi-fu/Hello-Vibe.git
+repo_name: jspi-fu/Hello-Vibe
 theme:
   name: shadcn
   show_title: true # show the title in the top bar
@@ -8,6 +10,6 @@ theme:
   pygments_style: # default styles 
         light: shadcn-light
         dark: github-dark
-  icon: assets/logo(2).svg
+  icon: assets/logo.svg
   topbar_sections: false # NEW!
-  show_datetime: false 
+  show_datetime: false
