@@ -1,0 +1,13 @@
+# mkdocs.yml
+site_name: "awesome-project"
+site_url: https://awesome-project.github.io/
+theme:
+  name: shadcn
+  show_title: true # show the title in the top bar
+  show_stargazers: true # show the stargazers in the top bar
+  pygments_style: # default styles 
+        light: shadcn-light
+        dark: github-dark
+  icon: assets/logo(2).svg
+  topbar_sections: false # NEW!
+  show_datetime: false 

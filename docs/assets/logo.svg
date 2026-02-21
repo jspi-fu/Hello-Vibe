@@ -1,0 +1,17 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" transform="translate(-2 -1)" id="svg_27">
+   <rect stroke="#000" rx="12" id="svg_16" height="64.84924" width="382.86895" y="55.28031" x="360.88037" stroke-width="0" fill="#000000"/>
+   <rect stroke="#000" id="svg_2" height="1.28045" width="0" y="277.95168" x="553.71181" fill="#fff"/>
+   <rect stroke="#000" rx="12" id="svg_17" height="64.84924" width="382.86899" y="201.1911" x="200.44201" stroke-width="0" fill="#000000"/>
+   <rect stroke="#000" rx="12" id="svg_18" height="64.84924" width="382.86898" y="368.51866" x="48.02761" stroke-width="0" fill="#000000"/>
+   <rect stroke="#000" rx="12" id="svg_19" height="64.84924" width="401.24667" y="531.92222" x="45.39632" stroke-width="0" fill="#FFB27C"/>
+   <rect stroke="#000" transform="matrix(2.19823 -2.25795 2.13295 2.32706 -670.377 652.256)" rx="12" id="svg_20" height="22.74499" width="155.34757" y="179.02338" x="297.95225" stroke-width="0" fill="#000000"/>
+   <rect stroke="#000" transform="matrix(2.19823 -2.25795 2.13295 2.32706 -776.16 700.284)" rx="12" id="svg_21" height="22.74499" width="155.34757" y="230.1013" x="299.49607" stroke-width="0" fill="#FFB27C"/>
+   <rect stroke="#000" transform="matrix(2.19823 -2.25795 2.13295 2.32706 -884.537 741.538)" rx="12" id="svg_22" height="22.74499" width="155.34757" y="281.7089" x="298.58575" stroke-width="0" fill="#000000"/>
+   <rect stroke="#000" rx="12" id="svg_23" height="64.84924" width="401.24667" y="694.72687" x="42.33337" stroke-width="0" fill="#000000"/>
+  </g>
+ </g>
+</svg>
