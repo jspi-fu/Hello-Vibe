@@ -5,11 +5,35 @@ repo_url: https://github.com/jspi-fu/Hello-Vibe.git
 repo_name: jspi-fu/Hello-Vibe
 theme:
   name: shadcn
-  show_title: true # show the title in the top bar
-  show_stargazers: true # show the stargazers in the top bar
-  pygments_style: # default styles 
-        light: shadcn-light
-        dark: github-dark
+  show_title: true
+  show_stargazers: true
+  pygments_style:
+    light: shadcn-light
+    dark: github-dark
   icon: assets/logo.svg
-  topbar_sections: false # NEW!
+  topbar_sections: false
   show_datetime: false
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_root_heading: true
+
+extra_javascript:
+  - assets/custom-favicon.js
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - fenced_code
+  - footnotes
+  - pymdownx.blocks.details
+  - pymdownx.blocks.tab
+  - pymdownx.progressbar
+  - pymdownx.tabbed
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list

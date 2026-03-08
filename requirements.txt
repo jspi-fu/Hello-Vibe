@@ -1,0 +1,11 @@
+# MkDocs 核心依赖
+mkdocs>=1.5.0
+
+# 主题依赖
+mkdocs-shadcn
+
+# 插件依赖
+mkdocstrings[python]>=0.24.0
+
+# Markdown 扩展依赖
+pymdown-extensions>=10.0
