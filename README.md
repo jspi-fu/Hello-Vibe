@@ -49,7 +49,7 @@
 
 ### 在线阅读
 
-访问在线文档：<https://awesome-project.github.io/Hello-vibe/>
+访问在线文档：<https://hello-vibe.311factory.top>
 
 ### 本地阅读
 
@@ -111,50 +111,6 @@ mkdocs serve
 - [代码重构](./docs/07_高级技巧/04_代码重构.md) - 优雅偿还技术债
 - [成本控制](./docs/07_高级技巧/05_成本控制.md) - 节省 Token 费用
 - [团队协作](./docs/07_高级技巧/06_团队协作.md) - 多人配合统一规范
-
-## 学习路线推荐
-
-### 零基础新手
-
-- **第 1 天**：读完基础必读，理解 Vibe Coding 并做出第一个作品
-- **第 1-2 周**：学习 AI 编程工具 + 做几个简单项目
-- **之后**：按需学习经验技巧和产品变现
-
-### 有编程基础
-
-- **第 1 天**：快速过完基础内容，完成快速上手教程
-- **第 1 周**：学习主流 AI 编程工具，尝试重构之前的项目
-- **之后**：重点学习进阶技巧，提升对话和上下文管理能力
-
-## 本地部署
-
-### 环境要求
-
-- Python 3.8+
-- pip
-
-### 安装步骤
-
-```bash
-# 1. 克隆仓库
-git clone https://github.com/jspi-fu/Hello-Vibe.git
-cd Hello-Vibe
-
-# 2. 创建虚拟环境（推荐）
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# 或
-venv\Scripts\activate  # Windows
-
-# 3. 安装依赖
-pip install -r requirements.txt
-
-# 4. 启动开发服务器
-mkdocs serve
-
-# 5. 构建站点
-mkdocs build
-```
 
 ### 主题配置
 
