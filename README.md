@@ -1,18 +1,30 @@
-# Hello-vibe
-
 <p align="center">
-  <img src="./docs/assets/cover.png" alt="Hello-vibe" width="600"/>
+  <img src="./assets/cover.png" alt="Hello-vibe" width="600"/>
 </p>
 
 <p align="center">
-  <b>AI 编程入门指南 —— 从初学者到修行者的实战教程</b>
+  <img style="height: 60px;" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=400&duration=3500&pause=2000&color=E78BE7&center=true&vCenter=true&random=false&width=200&lines=Hello%2C+Vibe+!" alt="Hello-vibe-typing-svg" />
+  </br>
+  AI 编程入门指南 —— 从初学者到修行者的实战教程
 </p>
 
 <p align="center">
-  <a href="#快速开始">🚀 快速开始</a> •
-  <a href="#文档结构">📚 文档结构</a> •
-  <a href="#本地部署">💻 本地部署</a> •
-  <a href="#贡献指南">🤝 贡献指南</a>
+  <a href="https://hello-vibe.311factory.top/">
+    <img src="./assets/online_read.svg" height="45"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jspi-fu/Hello-Vibe"><img src="https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github" alt="github仓库"></a>
+  <a href="https://gitee.com/ye_sheng0839/hello-vibe"><img src="https://img.shields.io/badge/gitee-repo-red?style=for-the-badge&logo=gitee" alt="gitee仓库"></a>
+  <a href="https://zread.ai/jspi-fu/Hello-Vibe" target="_blank"><img src="https://img.shields.io/badge/Ask_Zread-_.svg?style=for-the-badge&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff" alt="zread"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT许可证"></a>
+</p>
+
+<p align="center">
+  <a href="#快速开始"><img src="https://img.shields.io/badge/🚀-快速开始-6A5ACD?style=for-the-badge&logoColor=white" alt="快速开始"></a>
+  <a href="#核心理念"><img src="https://img.shields.io/badge/💡-核心理念-FFD700?style=for-the-badge&logoColor=white" alt="核心理念"></a>
+  <a href="#文档结构"><img src="https://img.shields.io/badge/📚-文档结构-20B2AA?style=for-the-badge&logoColor=white" alt="文档结构"></a>
+  <a href="#参与贡献"><img src="https://img.shields.io/badge/🤝-参与贡献-FF6B6B?style=for-the-badge&logoColor=white" alt="参与贡献"></a>
 </p>
 
 ---
@@ -71,7 +83,8 @@ mkdocs serve
 
 本教程采用循序渐进的学习路线，分为四个阶段：
 
-### 📖 第一站：基础入门（打地基）
+<details>
+<summary><strong>📖 第一站：基础入门（打地基）</strong></summary> 
 
 **"别急着写代码，先学会跟 AI 保持同频。"**
 
@@ -81,7 +94,10 @@ mkdocs serve
 - [规则约束](./docs/04_基础入门/04_规则约束.md) - 让 AI 遵守你的标准
 - [做个小工具](./docs/04_基础入门/05_做个小工具.md) - 从想法到落地的实战
 
-### 🎯 第二站：项目思维（定方向）
+</details>
+
+<details>
+<summary><strong>🎯 第二站：项目思维（定方向）</strong></summary> 
 
 **"代码写得再快，跑错了方向也是白费。"**
 
@@ -90,7 +106,10 @@ mkdocs serve
 - [逆向思维](./docs/05_项目思维/03_逆向思维.md) - 预判失败，提前避坑
 - [胶水编程](./docs/05_项目思维/04_胶水编程.md) - 组合现有能力
 
-### ⚙️ 第三站：高级配置（神装加身）
+</details>
+
+<details>
+<summary><strong>⚙️ 第三站：高级配置（神装加身）</strong></summary> 
 
 **"给你的 AI 助手装上记忆和双手。"**
 
@@ -101,7 +120,10 @@ mkdocs serve
 - [文档集](./docs/06_高级配置/05_文档集.md) - 挂载私有知识库
 - [项目管理](./docs/06_高级配置/06_项目管理.md) - 引入 SDD 规范
 
-### 🛡️ 第四站：高级技巧（修罗场实战）
+</details>
+
+<details>
+<summary><strong>🛡️ 第四站：高级技巧（修罗场实战）</strong></summary> 
 
 **"处理现实世界中那些最麻烦、最恶心的问题。"**
 
@@ -112,51 +134,29 @@ mkdocs serve
 - [成本控制](./docs/07_高级技巧/05_成本控制.md) - 节省 Token 费用
 - [团队协作](./docs/07_高级技巧/06_团队协作.md) - 多人配合统一规范
 
-### 主题配置
+</details>
 
-本项目使用 [mkdocs-shadcn](https://github.com/squidfunk/mkdocs-shadcn) 主题，如需自定义主题配置，请编辑 `mkdocs.yml` 文件。
 
-## 项目结构
+> [!NOTE]
+> 本项目使用 [mkdocs-shadcn](https://github.com/asiffer/mkdocs-shadcn) 主题，如需自定义主题配置，请参考 [【官方文档】](https://asiffer.github.io/mkdocs-shadcn/) 编辑 [`mkdocs.yml`](mkdocs.yml) 文件。
 
-```
-Hello-vibe/
-├── docs/                       # 文档内容
-│   ├── index.md               # 序言
-│   ├── 01_AI编程简介.md       # AI编程简介
-│   ├── 02_快速上手.md         # 快速上手教程
-│   ├── 03_进阶之路.md         # 进阶学习路线
-│   ├── 04_基础入门/           # 基础入门章节
-│   ├── 05_项目思维/           # 项目思维章节
-│   ├── 06_高级配置/           # 高级配置章节
-│   ├── 07_高级技巧/           # 高级技巧章节
-│   ├── 08_优质资源推荐.md     # 资源推荐
-│   └── assets/                # 图片和静态资源
-├── mkdocs.yml                 # MkDocs 配置文件
-├── README.md                  # 项目说明
-└── requirements.txt           # Python 依赖
-```
+---
 
-## 贡献指南
+## 🤝 参与贡献
 
-欢迎提交 Issue 和 Pull Request 来帮助改进这份教程！
+我们热烈欢迎各种形式的贡献。如果您对本项目有任何想法或建议，请随时开启一个 [Issue](https://github.com/jspi-fu/Hello-Vibe/issues) 或提交一个 [Pull Request](https://github.com/jspi-fu/Hello-Vibe/pulls)。
 
-### 提交 Issue
+在您开始之前，请花时间阅读我们的 [**贡献指南 (CONTRIBUTING.md)**](CONTRIBUTING.md) 和 [**行为准则 (CODE_OF_CONDUCT.md)**](CODE_OF_CONDUCT.md)。
 
-- 发现错别字或内容错误
-- 对某些概念有更好的解释方式
-- 希望增加新的章节或案例
-
-### 提交 PR
-
-1. Fork 本仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
+---
 
 ## 许可证
 
 本项目采用 [MIT](LICENSE) 许可证开源。
+
+---
+
+<p align="center"><strong>如果这个项目对您有帮助，请考虑为其点亮一颗 Star ⭐！</strong></p>
 
 ## 致谢
 
