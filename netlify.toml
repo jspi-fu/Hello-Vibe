@@ -4,3 +4,11 @@
 
 [build.environment]
   PYTHON_VERSION = "3.11"
+
+# 图像地址映射：将 /assets/images/* 映射到 ImageKit CDN
+# 使用 200 状态码实现 rewrite（重写），URL 保持不变
+[[redirects]]
+  from = "/assets/images/*"
+  to = "https://ik.imagekit.io/a3keouazok/images/:splat"
+  status = 200
+  force = true
