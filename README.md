@@ -14,17 +14,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jspi-fu/Hello-Vibe"><img src="https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github" alt="github仓库"></a>
+  <a href="https://github.com/jspi-fu/hello-vibe"><img src="https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github" alt="github仓库"></a>
   <a href="https://gitee.com/ye_sheng0839/hello-vibe"><img src="https://img.shields.io/badge/gitee-repo-red?style=for-the-badge&logo=gitee" alt="gitee仓库"></a>
-  <a href="https://zread.ai/jspi-fu/Hello-Vibe" target="_blank"><img src="https://img.shields.io/badge/Ask_Zread-_.svg?style=for-the-badge&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff" alt="zread"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT许可证"></a>
+  <a href="https://zread.ai/jspi-fu/hello-vibe" target="_blank"><img src="https://img.shields.io/badge/Ask_Zread-_.svg?style=for-the-badge&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff" alt="zread"/></a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=for-the-badge" alt="CC BY-NC-SA 4.0许可证"></a>
 </p>
 
 <p align="center">
   <a href="#快速开始"><img src="https://img.shields.io/badge/🚀-快速开始-6A5ACD?style=for-the-badge&logoColor=white" alt="快速开始"></a>
   <a href="#核心理念"><img src="https://img.shields.io/badge/💡-核心理念-FFD700?style=for-the-badge&logoColor=white" alt="核心理念"></a>
   <a href="#文档结构"><img src="https://img.shields.io/badge/📚-文档结构-20B2AA?style=for-the-badge&logoColor=white" alt="文档结构"></a>
-  <a href="#参与贡献"><img src="https://img.shields.io/badge/🤝-参与贡献-FF6B6B?style=for-the-badge&logoColor=white" alt="参与贡献"></a>
+  <a href="#contributing"><img src="https://img.shields.io/badge/🤝-参与贡献-FF6B6B?style=for-the-badge&logoColor=white" alt="参与贡献"></a>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 > 送给即将与AI同行的人们，尤其是311实验室最好的同志们。
 > —— 烨笙，二零二六年春，于南京
 
-这份教程记录了我曾踏足的二进制土地，希望能够帮助你们更快成长。从理解 AI 编程的基本概念，到亲手为自己定制实用工具，再到掌握高阶技巧、完成从程序员到项目师的思维转变，最终能够独立开发毕设级项目。
+这份教程记录了我曾踏足的二进制土地，希望能够帮助你们更快成长。从理解 AI 编程的基本概念，到亲手为自己定制实用工具，再到掌握高阶技巧、完成从程序员到项目师的思维转变。
 
 ## 核心理念
 
@@ -67,8 +67,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/jspi-fu/Hello-Vibe.git
-cd Hello-Vibe
+git clone https://github.com/jspi-fu/hello-vibe.git
+cd hello-vibe
 
 # 安装依赖
 pip install -r requirements.txt
@@ -142,24 +142,30 @@ mkdocs serve
 
 ---
 
+<a id="contributing"></a>
+
 ## 🤝 参与贡献
 
-我们热烈欢迎各种形式的贡献。如果您对本项目有任何想法或建议，请随时开启一个 [Issue](https://github.com/jspi-fu/Hello-Vibe/issues) 或提交一个 [Pull Request](https://github.com/jspi-fu/Hello-Vibe/pulls)。
+我们热烈欢迎各种形式的贡献。如果您对本项目有任何想法或建议，请随时开启一个 [Issue](https://github.com/jspi-fu/hello-vibe/issues) 或提交一个 [Pull Request](https://github.com/jspi-fu/hello-vibe/pulls)。
 
 在您开始之前，请花时间阅读我们的 [**贡献指南 (CONTRIBUTING.md)**](CONTRIBUTING.md) 和 [**行为准则 (CODE_OF_CONDUCT.md)**](CODE_OF_CONDUCT.md)。
 
 ---
-
-## 许可证
-
-本项目采用 [MIT](LICENSE) 许可证开源。
-
----
-
-<p align="center"><strong>如果这个项目对您有帮助，请考虑为其点亮一颗 Star ⭐！</strong></p>
 
 ## 致谢
 
 感谢所有为这份教程提供建议和反馈的朋友们。
 
 特别感谢 311 实验室的同志们，是你们让这份教程有了存在的意义。
+
+## License
+
+© 2026 烨笙
+
+The texts, code, images, photos, and videos in this repository are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
+
+<p align="center">
+  <sub>如果这个项目对您有帮助，请考虑为其点亮一颗 Star ⭐！</sub>
+</p>

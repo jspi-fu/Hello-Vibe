@@ -1,8 +1,8 @@
 # mkdocs.yml
-site_name: "Hello-vibe"
+site_name: "hello-vibe"
 site_url: https://hello-vibe.311factory.top/
-repo_url: https://github.com/jspi-fu/Hello-Vibe
-repo_name: jspi-fu/Hello-Vibe
+repo_url: https://github.com/jspi-fu/hello-vibe
+repo_name: jspi-fu/hello-vibe
 theme:
   name: shadcn
   show_title: true
